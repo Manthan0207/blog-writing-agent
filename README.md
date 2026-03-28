@@ -25,7 +25,7 @@ pip install -U langgraph langchain-openai langchain-community pydantic python-do
 ```
 
 ## Run
-1. Open `5_bwa_image.ipynb`
+1. Open `blog_agent.ipynb`
 2. Run all cells
 3. Call:
 
